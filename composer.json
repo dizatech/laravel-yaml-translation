@@ -1,17 +1,15 @@
 {
-    "name": "devitek/yaml-translation",
+    "name": "dizatech/yaml-translation",
     "license": "MIT",
     "description": "Add YAML file support to Laravel TranslationServiceProvider",
     "authors": [
         {
-            "name": "Thomas SIEFFERT",
-            "email": "thomas.sieffert@devitek.fr"
+            "name": "Dizatech",
+            "email": "omidrezav@gmail.com"
         }
     ],
     "require": {
         "php": ">=7.0",
-        "illuminate/translation": "~5.5",
-        "illuminate/support": "~5.5",
         "symfony/yaml": "3.*"
     },
     "autoload": {
